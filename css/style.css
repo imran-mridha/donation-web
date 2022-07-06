@@ -40,8 +40,7 @@ hr{
   color: #fff;
 }
 .banner-ovarly{
- /* background-image:linear-gradient(rgba(19, 1, 1, 0.116), rgba(1, 1, 10, 0.856));*/
- background-image:linear-gradient(#56641e23, #0e0f0f);
+  background-image:linear-gradient(#56641e23, #0e0f0f);
   height: 100vh;
   text-align: center;
   overflow: hidden;
